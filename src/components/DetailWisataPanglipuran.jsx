@@ -38,25 +38,18 @@ const DetailWisataPanglipuran = () => {
         <div>
           <h5>Deskripsi</h5>
           <p style={{ textAlign: "justify" }} className="text-black2">
-            Istana Maimun adalah istana Kesultanan Deli yang merupakan salah
-            satu ikon Kota Medan, Sumatera Utara. Istana ini terletak di Jalan
-            Brigadir Jenderal Katamso, Aur, Medan Maimun. Istana Maimun didesain
-            oleh arsitek Capt. Theodoor van Erp, seorang tentara Kerajaan
-            Belanda yang dibangun atas perintah Sultan Deli, Sultan Ma'moen Al
-            Rasyid. Pembangunan istana ini dimulai dari 26 Agustus 1888 dan
-            selesai pada 18 Mei 1891. Istana Maimun memiliki luas sebesar 2.772
-            m2 dan 30 ruangan. Istana Maimun terdiri dari 2 lantai dan memiliki
-            3 bagian yaitu bangunan induk, bangunan sayap kiri dan bangunan
-            sayap kanan. Bangunan istana ini menghadap ke Timur dan pada sisi
-            depan terdapat bangunan Masjid Al-Mashun atau yang lebih dikenal
-            dengan sebutan Masjid Raya Medan.
-          </p>
-          <p>
-            Istana Maimun menjadi tujuan wisata bukan hanya karena usianya yang
-            tua, tetapi juga desain interiornya yang unik, memadukan unsur-unsur
-            warisan kebudayaan Melayu Deli, dengan gaya Islam, Spanyol, India,
-            Belanda dan Italia.Namun sayang, tempat wisata ini tidak bebas dari
-            kawasan Pedagang kaki lima.
+            Penglipuran adalah salah satu desa adat dari Kabupaten Bangli,
+            Provinsi Bali, Indonesia. Desa ini terkenal sebagai salah satu
+            destinasi wisata di Bali karena masyarakatnya yang masih menjalankan
+            dan melestarikan budaya tradisional Bali dalam kehidupan mereka
+            sehari-hari. Arsitektur bangunan dan pengolahan lahan masih
+            mengikuti konsep Tri Hita Karana, filosofi masyarakat Bali mengenai
+            keseimbangan hubungan antara Tuhan, manusia, dan lingkungannya.
+            Mereka berhasil membangun pariwisata yang menguntungkan seluruh
+            masyarakatnya tanpa menghilangkan budaya dan tradisi mereka. Pada
+            tahun 1995, desa Penglipuran juga mendapatkan penghargaan Kalpataru
+            dari pemerintah Indonesia atas usahanya melindungi hutan bambu di
+            ekosistem lokal mereka
           </p>
         </div>
       </div>

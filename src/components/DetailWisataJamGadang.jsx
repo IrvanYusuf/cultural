@@ -38,25 +38,19 @@ const DetailWisataJamGadang = () => {
         <div>
           <h5>Deskripsi</h5>
           <p style={{ textAlign: "justify" }} className="text-black2">
-            Istana Maimun adalah istana Kesultanan Deli yang merupakan salah
-            satu ikon Kota Medan, Sumatera Utara. Istana ini terletak di Jalan
-            Brigadir Jenderal Katamso, Aur, Medan Maimun. Istana Maimun didesain
-            oleh arsitek Capt. Theodoor van Erp, seorang tentara Kerajaan
-            Belanda yang dibangun atas perintah Sultan Deli, Sultan Ma'moen Al
-            Rasyid. Pembangunan istana ini dimulai dari 26 Agustus 1888 dan
-            selesai pada 18 Mei 1891. Istana Maimun memiliki luas sebesar 2.772
-            m2 dan 30 ruangan. Istana Maimun terdiri dari 2 lantai dan memiliki
-            3 bagian yaitu bangunan induk, bangunan sayap kiri dan bangunan
-            sayap kanan. Bangunan istana ini menghadap ke Timur dan pada sisi
-            depan terdapat bangunan Masjid Al-Mashun atau yang lebih dikenal
-            dengan sebutan Masjid Raya Medan.
+            Jam Gadang adalah menara jam yang menjadi penanda atau ikon Kota
+            Bukittinggi, Sumatera Barat, Indonesia. Menara jam ini menjulang
+            setinggi 27 meter dan diresmikan pembangunannya pada 25 Juli 1927.
+            Terdapat jam berukuran besar berdiameter 80 cm di empat sisi menara
+            sehingga dinamakan Jam Gadang, sebutan bahasa Minangkabau yang
+            berarti "jam besar".
           </p>
           <p>
-            Istana Maimun menjadi tujuan wisata bukan hanya karena usianya yang
-            tua, tetapi juga desain interiornya yang unik, memadukan unsur-unsur
-            warisan kebudayaan Melayu Deli, dengan gaya Islam, Spanyol, India,
-            Belanda dan Italia.Namun sayang, tempat wisata ini tidak bebas dari
-            kawasan Pedagang kaki lima.
+            Jam Gadang menjadi lokasi peristiwa penting pada masa sekitar
+            kemerdekaan Indonesia, seperti pengibaran bendera merah putih
+            (1945), Demonstrasi Nasi Bungkus (1950), dan pembunuhan 187 penduduk
+            setempat oleh militer Indonesia atas tuduhan terlibat Pemerintahan
+            Revolusioner Republik Indonesia (1959)
           </p>
         </div>
       </div>

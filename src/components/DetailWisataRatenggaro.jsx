@@ -38,25 +38,30 @@ const DetailWisataRatenggaro = () => {
         <div>
           <h5>Deskripsi</h5>
           <p style={{ textAlign: "justify" }} className="text-black2">
-            Istana Maimun adalah istana Kesultanan Deli yang merupakan salah
-            satu ikon Kota Medan, Sumatera Utara. Istana ini terletak di Jalan
-            Brigadir Jenderal Katamso, Aur, Medan Maimun. Istana Maimun didesain
-            oleh arsitek Capt. Theodoor van Erp, seorang tentara Kerajaan
-            Belanda yang dibangun atas perintah Sultan Deli, Sultan Ma'moen Al
-            Rasyid. Pembangunan istana ini dimulai dari 26 Agustus 1888 dan
-            selesai pada 18 Mei 1891. Istana Maimun memiliki luas sebesar 2.772
-            m2 dan 30 ruangan. Istana Maimun terdiri dari 2 lantai dan memiliki
-            3 bagian yaitu bangunan induk, bangunan sayap kiri dan bangunan
-            sayap kanan. Bangunan istana ini menghadap ke Timur dan pada sisi
-            depan terdapat bangunan Masjid Al-Mashun atau yang lebih dikenal
-            dengan sebutan Masjid Raya Medan.
+            Kampung Adat Ratenggaro adalah sebuah kampung adat yang terletak di
+            Desa Umbu Ngedo, Kecamatan Kodi Bangedo, Kabupaten Sumba Barat Daya,
+            Provinsi Nusa Tenggara Timur. Berada di ujung selatan dan di pesisir
+            pantai yang indah. Desa ini berjarak dari Tambolaka, ibukota
+            Kabupaten Sumba Barat Daya sejauh 56 kilometer. Belum tersedia
+            akomodasi umum yang dapat digunakan pengunjung untuk mencapai ke
+            desa ini sehingga pengunjung harus menyewa kendaraan atau jasa
+            travel dari Tambolaka yang berjarak sekitar 56 km ke lokasi Desa
+            Ratenggaro. Akses jalanan dari Tambolaka menuju Ratenggaro dapat
+            ditempuh dalam waktu 1,5 hingga 2 jam dengan kondisi jalan beraspal
+            yang terpelihara baik
           </p>
           <p>
-            Istana Maimun menjadi tujuan wisata bukan hanya karena usianya yang
-            tua, tetapi juga desain interiornya yang unik, memadukan unsur-unsur
-            warisan kebudayaan Melayu Deli, dengan gaya Islam, Spanyol, India,
-            Belanda dan Italia.Namun sayang, tempat wisata ini tidak bebas dari
-            kawasan Pedagang kaki lima.
+            Kepercayaan utama masyarakat Desa adat Rateranggo adalah Marapu,
+            yakni kegiatan pemujaan terhadap para leluhur yang masih menjadi
+            tradisi yang dipegang teguh. Tradisi ini mempengaruhi bentuk rumah
+            yang mereka tempati. Rumah-rumah penduduk merupakan rumah panggung
+            dengan menara atap yang menjulang tinggi. Tinggi menara atapnya
+            bahkan ada yang mencapai 30 meter dan tertinggi di antara
+            menara-menara rumah adat yang ada di Pulau Sumba. Menara atap yang
+            menjulang tinggi, selain melambangkan status sosial, juga sebagai
+            bentuk penghormatan terhadap arwah para leluhur sehingga rumah
+            selain sebagai tempat tinggal juga berfungsi sebagai sarana
+            pemujaan.
           </p>
         </div>
       </div>

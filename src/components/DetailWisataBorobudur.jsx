@@ -38,25 +38,27 @@ const DetailWisataBorobudur = () => {
         <div>
           <h5>Deskripsi</h5>
           <p style={{ textAlign: "justify" }} className="text-black2">
-            Istana Maimun adalah istana Kesultanan Deli yang merupakan salah
-            satu ikon Kota Medan, Sumatera Utara. Istana ini terletak di Jalan
-            Brigadir Jenderal Katamso, Aur, Medan Maimun. Istana Maimun didesain
-            oleh arsitek Capt. Theodoor van Erp, seorang tentara Kerajaan
-            Belanda yang dibangun atas perintah Sultan Deli, Sultan Ma'moen Al
-            Rasyid. Pembangunan istana ini dimulai dari 26 Agustus 1888 dan
-            selesai pada 18 Mei 1891. Istana Maimun memiliki luas sebesar 2.772
-            m2 dan 30 ruangan. Istana Maimun terdiri dari 2 lantai dan memiliki
-            3 bagian yaitu bangunan induk, bangunan sayap kiri dan bangunan
-            sayap kanan. Bangunan istana ini menghadap ke Timur dan pada sisi
-            depan terdapat bangunan Masjid Al-Mashun atau yang lebih dikenal
-            dengan sebutan Masjid Raya Medan.
+            Candi Borobudur adalah sebuah candi Buddha yang terletak di
+            Borobudur, Magelang, Jawa Tengah, Indonesia. Candi ini terletak
+            kurang lebih 100 km di sebelah barat daya Semarang, 86 km di sebelah
+            barat Surakarta, dan 40 km di sebelah barat laut Yogyakarta. Candi
+            ini dibangun oleh para penganut agama Buddha Mahayana sekitar tahun
+            800-an Masehi pada masa pemerintahan wangsa Syailendra. Borobudur
+            adalah candi atau kuil Buddha terbesar di dunia, sekaligus salah
+            satu monumen Buddha terbesar di dunia. Candi ini berbentuk piramida
+            berundak yang terdiri dari 10 tingkat, yang melambangkan sepuluh
+            tingkatan alam semesta dalam kepercayaan Buddha. Tingkatan-tingkatan
+            ini dihiasi dengan relief-relief yang menggambarkan kisah-kisah
+            Buddha dan ajaran-ajarannya.
           </p>
           <p>
-            Istana Maimun menjadi tujuan wisata bukan hanya karena usianya yang
-            tua, tetapi juga desain interiornya yang unik, memadukan unsur-unsur
-            warisan kebudayaan Melayu Deli, dengan gaya Islam, Spanyol, India,
-            Belanda dan Italia.Namun sayang, tempat wisata ini tidak bebas dari
-            kawasan Pedagang kaki lima.
+            Candi Borobudur memiliki makna yang mendalam bagi umat Buddha. Candi
+            ini melambangkan perjalanan spiritual manusia menuju pencerahan.
+            Tingkatan-tingkatan candi melambangkan tingkatan-tingkatan kesadaran
+            manusia, yang harus dilalui untuk mencapai pencerahan. Relief-relief
+            yang menghiasi candi menggambarkan kisah-kisah Buddha dan
+            ajaran-ajarannya, yang dapat membantu umat Buddha dalam perjalanan
+            spiritual mereka.
           </p>
         </div>
       </div>

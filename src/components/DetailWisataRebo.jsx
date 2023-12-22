@@ -38,25 +38,20 @@ const DetailWisataRebo = () => {
         <div>
           <h5>Deskripsi</h5>
           <p style={{ textAlign: "justify" }} className="text-black2">
-            Istana Maimun adalah istana Kesultanan Deli yang merupakan salah
-            satu ikon Kota Medan, Sumatera Utara. Istana ini terletak di Jalan
-            Brigadir Jenderal Katamso, Aur, Medan Maimun. Istana Maimun didesain
-            oleh arsitek Capt. Theodoor van Erp, seorang tentara Kerajaan
-            Belanda yang dibangun atas perintah Sultan Deli, Sultan Ma'moen Al
-            Rasyid. Pembangunan istana ini dimulai dari 26 Agustus 1888 dan
-            selesai pada 18 Mei 1891. Istana Maimun memiliki luas sebesar 2.772
-            m2 dan 30 ruangan. Istana Maimun terdiri dari 2 lantai dan memiliki
-            3 bagian yaitu bangunan induk, bangunan sayap kiri dan bangunan
-            sayap kanan. Bangunan istana ini menghadap ke Timur dan pada sisi
-            depan terdapat bangunan Masjid Al-Mashun atau yang lebih dikenal
-            dengan sebutan Masjid Raya Medan.
+            Wae Rebo atau Waerebo adalah sebuah desa adat terpencil dan
+            misterius di Kabupaten Manggarai, Nusa Tenggara Timur. Wae Rebo
+            merupakan salah satu destinasi wisata budaya di Kabupaten Manggarai.
+            Terletak di ketinggian 1.200 meter di atas permukaan laut. Di
+            kampung ini hanya terdapat 7 rumah utama atau yang disebut sebagai
+            Mbaru Niang. Wae Rebo dinyatakan UNESCO sebagai Warisan Budaya Dunia
+            pada Agustus 2012 dengan menyisihkan 42 negara lainnya.
           </p>
           <p>
-            Istana Maimun menjadi tujuan wisata bukan hanya karena usianya yang
-            tua, tetapi juga desain interiornya yang unik, memadukan unsur-unsur
-            warisan kebudayaan Melayu Deli, dengan gaya Islam, Spanyol, India,
-            Belanda dan Italia.Namun sayang, tempat wisata ini tidak bebas dari
-            kawasan Pedagang kaki lima.
+            Wae sendiri dalam bahasa manggarai artinya ialah "air". Penulisan
+            waerebo menggunakan 1 kata dan tidak memakai spasi seperti yang
+            ditulis media. Desa Waerebo sendiri sudah berumur 1200 tahun dan
+            sudah memasuki generasi ke 20. Dimana 1 generasi berusia 60 tahun
+            lamanya.
           </p>
         </div>
       </div>
