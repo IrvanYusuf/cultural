@@ -1,0 +1,73 @@
+const dataTempatWisata = [
+  {
+    id: 1,
+    nama: "Istana Maimun",
+    link: "istana-maimun",
+    lokasi: "Medan, Sumatra Utara",
+    image: "https://i.ibb.co/zPCCgSx/wisata1.png",
+    gallery: [
+      "https://i.ibb.co/m6KJYG8/wisata1a.jpg",
+      "https://i.ibb.co/d7c0qWw/wisata1c.jpg",
+    ],
+    jml_pengunjung: "300 - 400 orang",
+    path: "https://maps.app.goo.gl/gQ3Ycyp9dgpM3ax37",
+  },
+  {
+    id: 2,
+    nama: "Jam Gadang",
+    link: "jam-gadang",
+    lokasi: "Bukittinggi, Sumatra Barat",
+    image: "https://i.ibb.co/n6Vj3gM/wisata2a.jpg",
+    gallery: [
+      "https://i.ibb.co/n6Vj3gM/wisata2a.jpg",
+      "https://i.ibb.co/c35W39m/wisata2d.jpg",
+    ],
+    jml_pengunjung: "300 - 400 orang",
+    path: "https://maps.app.goo.gl/z56DW7i1CzvEVgP77",
+  },
+  {
+    id: 3,
+    nama: "Candi Borobudur",
+    link: "candi-borobudur",
+    lokasi: "Magelang, Jawa Tengah",
+    image: "https://i.ibb.co/RD4CPsg/wisata3.jpg",
+    gallery: [
+      "https://i.ibb.co/RD4CPsg/wisata3.jpg",
+      "https://i.ibb.co/T0r67Sn/wisata3b.jpg",
+    ],
+    jml_pengunjung: "3000 - 3500 orang",
+    path: "https://maps.app.goo.gl/VvBR78JP6pnQhejs6",
+  },
+  {
+    id: 4,
+    nama: "Desa Adat Ratenggaro",
+    link: "desa-adat-ratenggaro",
+    lokasi: "Sumba Barat Daya, NTT",
+    image: "https://i.ibb.co/16fvGsD/wisata4.jpg",
+    gallery: ["https://i.ibb.co/h9F5k0M/wisata4b.jpg"],
+    jml_pengunjung: "300 - 400 orang",
+    path: "https://maps.app.goo.gl/X43CWkK3t6Z46HKT8",
+  },
+  {
+    id: 5,
+    nama: "Desa Wae Rebo",
+    link: "desa-wae-rebo",
+    lokasi: "Manggarai, NTT",
+    image: "https://i.ibb.co/rkFxPkz/wisata5a.jpg",
+    gallery: ["https://i.ibb.co/WPQMd4J/wisata5c.jpg"],
+    jml_pengunjung: "300 - 400 orang",
+    path: "https://maps.app.goo.gl/EdTGppq5EV6GspWA9",
+  },
+  {
+    id: 6,
+    nama: "Desa Panglipuran",
+    link: "desa-panglipuran",
+    lokasi: "Bangli, Bali",
+    image: "https://i.ibb.co/mC2nfY0/wisata6c.jpg",
+    gallery: ["https://i.ibb.co/v386HVN/wisata6.jpg"],
+    jml_pengunjung: "300 - 400 orang",
+    path: "https://maps.app.goo.gl/VgZYKvKoFkBwN6rk6",
+  },
+];
+
+export default dataTempatWisata;

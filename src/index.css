@@ -1,0 +1,107 @@
+.btn-primary {
+  background-color: #2b3499 !important;
+  border: #2b3499 !important;
+}
+.btn-outline-primary {
+  border: 1px solid #2b3499 !important;
+  color: #2b3499 !important;
+}
+.btn-outline-primary:hover {
+  background-color: #2b3499 !important;
+  color: white !important;
+}
+.text-primary2 {
+  color: #2b3499;
+}
+.text-black2 {
+  color: #1a1e18 !important;
+}
+.bg-black2 {
+  background-color: #1a1e18 !important;
+}
+.video-container {
+  filter: brightness(60%);
+}
+.putar {
+  transform: rotate(180deg);
+}
+.banner-carousel-render-center-left-controls,
+.banner-carousel-render-center-right-controls {
+  margin-top: 50%;
+  border: none;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+}
+.carousel-home img {
+  filter: brightness(50%);
+}
+
+.galeri-container div img {
+  border-radius: 10px;
+}
+
+/* login page */
+.bg-login {
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.8)),
+    url("https://i.ibb.co/r5vCTSW/bg-login.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.img-about {
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.8)),
+    url("https://i.ibb.co/CzpQjZ3/about.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 50vh;
+}
+/* responsive */
+/* laptop */
+@media screen and (min-width: 1116px) {
+  .carousel-home {
+    height: 100vh;
+  }
+  .card-info {
+    border-right: 2px solid rgb(219, 219, 219);
+  }
+  .card-info:last-child {
+    border-right: none;
+  }
+  .melestarikan {
+    height: 80vh;
+  }
+  .melestarikan img {
+    border-radius: 20px 0 0px 20px;
+  }
+}
+@media screen and (max-width: 1116px) {
+  .card-info {
+    border-bottom: 1px solid rgb(219, 219, 219);
+  }
+  .card-category {
+    width: 100%;
+  }
+  .melestarikan {
+    height: 400px;
+  }
+  .profile-bio {
+    text-align: center;
+  }
+}
+
+/* mobile */
+@media screen and (max-width: 430px) {
+  .carousel-home {
+    height: 100vh;
+  }
+  .card-category h5 {
+    font-size: 18px;
+  }
+  .footer-title {
+    font-size: 16px;
+  }
+  .footer-title + h6 {
+    font-size: 14px;
+  }
+}
